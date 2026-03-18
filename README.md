@@ -110,23 +110,3 @@ Not all signals should be trusted.
 
 Proceed carefully.
 
-
----
-
-# 🔥 WHY THIS IS GOOD
-
-- Looks professional  
-- Keeps ARG tone  
-- Explains without overexplaining  
-- Builds curiosity  
-- Helps with credibility  
-
----
-
-If you want next:
-
-👉 I can make a **README that looks like a corrupted system file (SUPER viral)**  
-👉 or a **landing page README with images + glitch aesthetic**
-
-Just say:
-**“upgrade readme”**
